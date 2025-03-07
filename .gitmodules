@@ -1,0 +1,3 @@
+[submodule "OrthoFinder"]
+	path = OrthoFinder
+	url = https://github.com/davidemms/OrthoFinder.git
