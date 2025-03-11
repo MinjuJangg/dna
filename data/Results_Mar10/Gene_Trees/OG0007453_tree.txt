@@ -1,0 +1,1 @@
+(Musca_domestica_XP_019891552.1:2.5e-07,((Musca_domestica_XP_011291620.1:5e-07,(Musca_domestica_XP_019891553.1:5e-07,(Musca_domestica_XP_011291619.1:5e-07,Musca_domestica_XP_019891550.1:5e-07):-0):-0):-0,(Musca_domestica_XP_019891551.1:5e-07,((Musca_domestica_XP_019891555.1:0,Musca_domestica_XP_019891556.1:0):0,Musca_domestica_XP_019891554.1:0):0.0654415):-0):2.5e-07);

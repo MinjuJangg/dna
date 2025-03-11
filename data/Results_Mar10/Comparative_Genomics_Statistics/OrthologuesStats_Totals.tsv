@@ -1,0 +1,8 @@
+	Acrythosiphon_pisum	Apis_mellifera	Bombus_terrestris	Ceratina_calcarata	Drosophila_melanogaster	Musca_domestica	Nasionia_vitripennis
+Acrythosiphon_pisum	0.0	14065.0	14617.0	14580.0	13582.0	14104.0	14856.0
+Apis_mellifera	16646.0	0.0	21756.0	21509.0	16671.0	16694.0	19894.0
+Bombus_terrestris	15554.0	20182.0	0.0	20138.0	15555.0	15686.0	18700.0
+Ceratina_calcarata	16260.0	20948.0	21049.0	0.0	16323.0	16450.0	19354.0
+Drosophila_melanogaster	17087.0	18252.0	18382.0	18146.0	0.0	23975.0	17947.0
+Musca_domestica	11580.0	12344.0	12524.0	12458.0	16885.0	0.0	12272.0
+Nasionia_vitripennis	20815.0	24915.0	25305.0	25098.0	20542.0	20806.0	0.0

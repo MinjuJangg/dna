@@ -1,0 +1,1 @@
+(Nasionia_vitripennis_XP_008213174:0.53724,((Acrythosiphon_pisum_XP_029348532.1:0.140492,Acrythosiphon_pisum_XP_029342296.1:0.0468713):0.405949,Acrythosiphon_pisum_XP_008189625.1:1.51672e-06):0.53724);

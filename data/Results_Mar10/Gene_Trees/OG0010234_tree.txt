@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_001943543.2:0.360931,(Nasionia_vitripennis_XP_032455541:0.788276,(Musca_domestica_XP_011296110.1:0.0074524,(Musca_domestica_XP_005189780.1:2.50585e-06,Musca_domestica_XP_011295076.1:0.00723924):0.0853346):0.895944):0.360931);

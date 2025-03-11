@@ -1,0 +1,1 @@
+(Musca_domestica_XP_019891820.1:0.438402,(Drosophila_melanogaster_NP_733032.2:9.97579e-07,(Drosophila_melanogaster_NP_651279.1:1.9e-05,Drosophila_melanogaster_NP_001287509.1:0.118603):0.004955):0.438402);

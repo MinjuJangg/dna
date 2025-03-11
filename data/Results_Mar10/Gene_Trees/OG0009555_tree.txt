@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_NP_001128375.1:0.352772,((Drosophila_melanogaster_NP_652658.1:0.321853,Musca_domestica_XP_005176920.1:0.325117):0.223783,(Nasionia_vitripennis_XP_001599196:0.579317,(Apis_mellifera_XP_026298757.1:0,Apis_mellifera_XP_026298758.1:0):0.705373):0.135122):0.352772);

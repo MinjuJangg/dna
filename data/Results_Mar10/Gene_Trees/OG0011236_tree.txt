@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_NP_001280439.1:0.675417,(Ceratina_calcarata_XP_017893647.1:0.198033,(Apis_mellifera_XP_001121520.2:0.0733105,Bombus_terrestris_XP_003394893.1:0.0533275):0.0258925):0.675417);

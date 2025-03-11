@@ -1,0 +1,1 @@
+(Apis_mellifera_XP_006561847.2:5.0879e-07,((Apis_mellifera_XP_006561846.2:5.0879e-07,Apis_mellifera_XP_001122470.3:0.504757):0.001316,(Apis_mellifera_XP_016769592.2:5.0879e-07,Apis_mellifera_XP_006561848.2:0.005349):0.001316):5.0879e-07);

@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_003240656.1:0.45583,(Musca_domestica_XP_005180275.1:1.29159,(Musca_domestica_XP_005177888.1:0.00826575,Musca_domestica_XP_005177887.1:0.0178943):1.21054):0.45583);

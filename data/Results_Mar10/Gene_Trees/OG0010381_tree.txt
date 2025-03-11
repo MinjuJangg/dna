@@ -1,0 +1,1 @@
+((Bombus_terrestris_XP_012173207.1:0.0211096,Bombus_terrestris_XP_003401824.2:0.0810894):0.435775,(Acrythosiphon_pisum_XP_016662258.2:1.13387,(Acrythosiphon_pisum_XP_008179502.1:0.226568,Acrythosiphon_pisum_XP_029344477.1:0.412816):0.86015):0.435775);

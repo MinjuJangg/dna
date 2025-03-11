@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_016659900.1:0.00929137,(Acrythosiphon_pisum_XP_003244590.1:0.0197443,((Acrythosiphon_pisum_XP_029345628.1:0.0103862,Acrythosiphon_pisum_XP_029345629.1:6.075e-05):0.0309745,Acrythosiphon_pisum_XP_029345630.1:0.005836):0.0149165):0.00929137);

@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_029346883.1:0,((Acrythosiphon_pisum_XP_029346886.1:0.140336,Acrythosiphon_pisum_XP_029346880.1:2.10177e-07):0.090769,Acrythosiphon_pisum_XP_029346881.1:0):0);

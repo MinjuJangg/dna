@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_001949843.1:0.485194,((Apis_mellifera_XP_006561059.1:0.139496,(Ceratina_calcarata_XP_017891515.1:0.16995,Bombus_terrestris_XP_003401372.2:0.0919119):0.0383413):0.127148,(Nasionia_vitripennis_XP_008214624:0.526167,(Drosophila_melanogaster_NP_649631.1:0.302959,Musca_domestica_XP_005176896.2:0.391011):0.477407):0.192078):0.485194);

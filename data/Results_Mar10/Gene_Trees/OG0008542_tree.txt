@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_026670741.1:0.974206,((Acrythosiphon_pisum_XP_001952780.2:0.033777,Acrythosiphon_pisum_XP_029344112.1:0.000317):0.0319875,((Acrythosiphon_pisum_XP_016656452.1:0,Acrythosiphon_pisum_XP_016656457.1:0):0,(Acrythosiphon_pisum_XP_016656454.1:0,Acrythosiphon_pisum_XP_016656449.1:0):0):0.0157224):0.974206);

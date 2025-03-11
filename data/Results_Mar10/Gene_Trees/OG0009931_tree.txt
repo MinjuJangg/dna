@@ -1,0 +1,1 @@
+((Bombus_terrestris_XP_012173337.1:0.319193,(Nasionia_vitripennis_XP_008202302:0.105294,Nasionia_vitripennis_XP_001606772:0.112647):0.163103):0.123726,((Drosophila_melanogaster_NP_001245914.1:0.0141473,Drosophila_melanogaster_NP_609075.1:1.42444e-06):0.249929,Musca_domestica_XP_005177614.1:0.214572):0.123726);

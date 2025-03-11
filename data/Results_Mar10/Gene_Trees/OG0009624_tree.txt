@@ -1,0 +1,1 @@
+(((Bombus_terrestris_XP_003399686.1:0,Bombus_terrestris_XP_020721554.1:0):0.0215325,Ceratina_calcarata_XP_017882776.1:0.0278185):0.619957,((Acrythosiphon_pisum_XP_029344049.1:0,Acrythosiphon_pisum_XP_008190054.1:0):0,Acrythosiphon_pisum_XP_029344050.1:0):0.619957);

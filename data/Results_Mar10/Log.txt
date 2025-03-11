@@ -1,0 +1,17 @@
+2025-03-10 17:00:53 : Started OrthoFinder version 2.5.5
+Command Line: /home/dna/.local/bin/orthofinder -f /home/dna/people/minju/faa
+
+WorkingDirectory_Base: /home/dna/people/minju/faa/OrthoFinder/Results_Mar10/WorkingDirectory/
+
+Species used: 
+0: Acrythosiphon_pisum.faa
+1: Apis_mellifera.faa
+2: Bombus_terrestris.faa
+3: Ceratina_calcarata.faa
+4: Drosophila_melanogaster.faa
+5: Musca_domestica.faa
+6: Nasionia_vitripennis.faa
+
+FN_Orthogroups: /home/dna/people/minju/faa/OrthoFinder/Results_Mar10/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/dna/people/minju/faa/OrthoFinder/Results_Mar10/WorkingDirectory/
+2025-03-10 17:32:22 : OrthoFinder run completed

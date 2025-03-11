@@ -1,0 +1,1 @@
+((Ceratina_calcarata_XP_026669916.1:0.0504299,Ceratina_calcarata_XP_026669915.1:0.0621851):0.175114,((Bombus_terrestris_XP_003398462.1:1.13319e-06,Bombus_terrestris_XP_020720759.1:0.0315001):0.158248,(Apis_mellifera_XP_003250171.1:1.13319e-06,Apis_mellifera_XP_006562941.1:0.067329):0.422055):0.175114);

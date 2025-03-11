@@ -1,0 +1,1 @@
+(Drosophila_melanogaster_NP_732983.1:1.3566e-07,((Drosophila_melanogaster_NP_001262914.1:0.032429,Drosophila_melanogaster_NP_651248.2:1.3566e-07):0.000153,((Drosophila_melanogaster_NP_001262913.1:0.013489,(Drosophila_melanogaster_NP_001138106.1:0,Drosophila_melanogaster_NP_001138107.1:0):0.012415):0.0493972,Drosophila_melanogaster_NP_001262912.1:0.0135058):0.014577):1.3566e-07);

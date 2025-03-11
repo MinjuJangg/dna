@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_017881171.1:0,((Ceratina_calcarata_XP_026669867.1:0,(Ceratina_calcarata_XP_026669855.1:0,Ceratina_calcarata_XP_026669853.1:0):0):0,(Ceratina_calcarata_XP_026669846.1:0,Ceratina_calcarata_XP_026669858.1:0):0):0);

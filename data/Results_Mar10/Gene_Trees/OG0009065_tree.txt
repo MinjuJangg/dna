@@ -1,0 +1,1 @@
+(Drosophila_melanogaster_NP_730026.1:0.644609,(((((Apis_mellifera_XP_006561662.2:0.001756,Apis_mellifera_XP_016769448.2:0.000356):0.00613869,Apis_mellifera_XP_016769451.2:0.0340533):0.648582,Bombus_terrestris_XP_003397574.1:0.6576):0.297197,Ceratina_calcarata_XP_017886620.1:0.897754):0.475593,Nasionia_vitripennis_XP_001599329:1.42016):0.644609);

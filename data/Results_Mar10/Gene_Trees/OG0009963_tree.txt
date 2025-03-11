@@ -1,0 +1,1 @@
+(Drosophila_melanogaster_NP_001369037.1:0.546595,(Ceratina_calcarata_XP_026673870.1:0.418209,((Nasionia_vitripennis_XP_032455017:1.89336e-06,Nasionia_vitripennis_XP_031785331:0.0561716):0.00023163,(Nasionia_vitripennis_XP_032455018:0,Nasionia_vitripennis_XP_032455016:0):0):0.325788):0.546595);

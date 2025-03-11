@@ -1,0 +1,1 @@
+(((Nasionia_vitripennis_XP_008204907:0.263986,Nasionia_vitripennis_XP_016837411:0.111449):0.11725,Nasionia_vitripennis_XP_008208586:0.27886):0.20677,(Bombus_terrestris_XP_003402716.1:0.0424773,((Bombus_terrestris_XP_020723897.1:0.0251338,Bombus_terrestris_XP_020723898.1:0.0788432):0.0166632,Bombus_terrestris_XP_020723899.1:0.159872):0.0899557):0.20677);

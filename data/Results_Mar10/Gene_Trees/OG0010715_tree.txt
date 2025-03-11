@@ -1,0 +1,1 @@
+(Apis_mellifera_XP_026301736.1:0.962949,(Nasionia_vitripennis_XP_031789101:2.47468e-06,(Nasionia_vitripennis_XP_031788699:0.329076,(Nasionia_vitripennis_XP_031788821:0.0790816,Nasionia_vitripennis_XP_008202384:0.0154584):0.0447119):0.151919):0.962949);

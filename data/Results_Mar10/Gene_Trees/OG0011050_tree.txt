@@ -1,0 +1,1 @@
+(Musca_domestica_XP_011292174.2:0.973387,(Nasionia_vitripennis_NP_001177424:0.730852,(Nasionia_vitripennis_XP_031786744:0.044204,(Nasionia_vitripennis_NP_001164387:0,Nasionia_vitripennis_XP_031786743:0):0.061622):0.374165):0.973387);

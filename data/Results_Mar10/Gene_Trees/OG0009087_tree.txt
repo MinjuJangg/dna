@@ -1,0 +1,1 @@
+(((Apis_mellifera_XP_026299844.1:5e-07,(Apis_mellifera_XP_623349.2:5e-07,Apis_mellifera_XP_026299845.1:5e-07):0):0,Apis_mellifera_XP_006566649.2:5e-07):0.123363,((Bombus_terrestris_XP_012168584.1:0,Bombus_terrestris_XP_020721041.1:0):0,Bombus_terrestris_XP_003398779.1:0):0.123363);

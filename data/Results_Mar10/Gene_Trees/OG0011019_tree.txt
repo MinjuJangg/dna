@@ -1,0 +1,1 @@
+(Musca_domestica_XP_005175871.1:0.10847,(((Musca_domestica_XP_005175872.1:0.169528,Musca_domestica_XP_019891289.1:0.168641):0.187275,Musca_domestica_XP_019893751.1:0.503636):0.036104,Musca_domestica_XP_005175858.1:0.18151):0.10847);

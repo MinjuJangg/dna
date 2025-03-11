@@ -1,0 +1,1 @@
+(Nasionia_vitripennis_XP_016837725:0.375707,(Apis_mellifera_XP_016770905.1:0.0821245,(Bombus_terrestris_XP_003399840.1:0.00517066,Bombus_terrestris_XP_020721383.1:0.216278):0.123344):0.375707);

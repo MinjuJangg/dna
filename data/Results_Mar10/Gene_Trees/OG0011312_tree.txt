@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_003248878.2:0.342598,(Ceratina_calcarata_XP_017892961.2:0.67019,(Musca_domestica_XP_005175767.2:0.0730413,Musca_domestica_XP_005175518.3:0.0178227):0.777773):0.342598);

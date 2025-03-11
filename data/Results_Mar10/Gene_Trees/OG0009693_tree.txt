@@ -1,0 +1,1 @@
+(((Nasionia_vitripennis_NP_001155051:0.0894156,Nasionia_vitripennis_NP_001155050:0.00034537):0.152478,(Ceratina_calcarata_XP_017875330.1:0.12591,Apis_mellifera_XP_001120975.1:0.220046):0.140494):0.20738,(Musca_domestica_XP_005185798.1:0.389097,Drosophila_melanogaster_NP_001163743.1:0.365261):0.20738);

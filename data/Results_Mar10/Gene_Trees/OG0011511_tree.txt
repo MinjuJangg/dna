@@ -1,0 +1,1 @@
+(Bombus_terrestris_XP_003393918.1:0.172715,(Apis_mellifera_NP_001229904.1:4.68831e-07,(Apis_mellifera_XP_026302132.1:0.0320237,Apis_mellifera_XP_026302131.1:0.0296042):0.0631292):0.172715);

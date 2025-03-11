@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_016658994.1:0.0556911,((Drosophila_melanogaster_NP_788435.1:0,Drosophila_melanogaster_NP_001286820.1:0):0.119456,((Nasionia_vitripennis_XP_031783056:0.162738,Bombus_terrestris_XP_020722973.1:0.0849375):0.182947,Nasionia_vitripennis_NP_001153470:0.0266495):0.126196):0.0556911);

@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_029345430.1:0.51818,(((Apis_mellifera_XP_006567386.1:0.0258553,Apis_mellifera_XP_026298381.1:0.0321717):0.0954906,Apis_mellifera_NP_001035057.1:1.35441e-06):0.0838962,Bombus_terrestris_XP_003397947.1:0.080826):0.51818);

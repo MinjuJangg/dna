@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_017893158.1:0.571331,(Apis_mellifera_XP_026298220.1:0.004491,(Apis_mellifera_XP_026298218.1:0.0122565,(Apis_mellifera_XP_026298219.1:0.0102195,((Apis_mellifera_XP_026298217.1:0,Apis_mellifera_XP_026298216.1:0):0,Apis_mellifera_XP_026298215.1:0):0.0085425):0.0112065):0.004886):0.571331);

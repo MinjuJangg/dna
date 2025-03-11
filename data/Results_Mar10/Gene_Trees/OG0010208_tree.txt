@@ -1,0 +1,1 @@
+(Nasionia_vitripennis_XP_008213617:0.00227813,(((Nasionia_vitripennis_XP_016840177:0,Nasionia_vitripennis_XP_016840176:0):0.210515,Nasionia_vitripennis_XP_016841849:1.33612):0.264739,(Nasionia_vitripennis_XP_031782484:0.00423304,Nasionia_vitripennis_XP_031782483:1.83091e-06):0.0108057):0.00227813);

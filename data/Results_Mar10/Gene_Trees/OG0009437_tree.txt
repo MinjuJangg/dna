@@ -1,0 +1,1 @@
+(((Musca_domestica_XP_005175556.3:1.06263,Musca_domestica_XP_011294888.1:0.831238):0.182949,Musca_domestica_XP_019890959.1:0.489396):0.322941,((Acrythosiphon_pisum_XP_029342569.1:0,Acrythosiphon_pisum_XP_029342568.1:0):0.31016,Acrythosiphon_pisum_XP_029347718.1:0.415252):0.322941);

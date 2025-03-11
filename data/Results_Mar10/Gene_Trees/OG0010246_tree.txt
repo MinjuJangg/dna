@@ -1,0 +1,1 @@
+(((Drosophila_melanogaster_NP_609087.1:0,Drosophila_melanogaster_NP_001285694.1:0):0.0560773,Drosophila_melanogaster_NP_001285695.1:0.0396437):0.965435,(Acrythosiphon_pisum_XP_016664111.1:0.0120398,Acrythosiphon_pisum_XP_029345598.1:0.0290872):0.965435);

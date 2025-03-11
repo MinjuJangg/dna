@@ -1,0 +1,1 @@
+((((Musca_domestica_XP_019893878.1:0,(Musca_domestica_XP_019893882.1:0,Musca_domestica_XP_019893880.1:0):0):0,Musca_domestica_XP_019893884.1:0):0.177145,(Drosophila_melanogaster_NP_996085.2:0.0051332,Drosophila_melanogaster_NP_001036606.1:0.380796):0.1866):0.378029,(Acrythosiphon_pisum_XP_029347328.1:0.484219,Acrythosiphon_pisum_XP_029342824.1:1.95472e-06):0.378029);

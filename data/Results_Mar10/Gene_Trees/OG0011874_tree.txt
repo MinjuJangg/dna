@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_026668211.1:0.0214387,(Ceratina_calcarata_XP_017877672.1:6.83139e-08,(Ceratina_calcarata_XP_017877673.1:0.0254355,Ceratina_calcarata_XP_026673181.1:5e-07):0.001016):0.0214387);

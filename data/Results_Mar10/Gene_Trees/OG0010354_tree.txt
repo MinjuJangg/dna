@@ -1,0 +1,1 @@
+((Ceratina_calcarata_XP_026666952.1:1.10475,Acrythosiphon_pisum_XP_029341040.1:0.648737):0.0221421,(Acrythosiphon_pisum_XP_016662455.1:0.759779,(Nasionia_vitripennis_XP_031779920:0.0517907,Nasionia_vitripennis_XP_031781964:0.0360453):0.538359):0.0221421);

@@ -1,0 +1,1 @@
+((Ceratina_calcarata_XP_026666969.1:0.144267,Musca_domestica_XP_019891988.1:1.10474):0.0958592,(Ceratina_calcarata_XP_026672465.1:0.0801142,((Ceratina_calcarata_XP_017888626.1:5.24074e-06,Ceratina_calcarata_XP_017888927.1:1.02411):0.279695,(Musca_domestica_XP_019892798.1:0.669973,Nasionia_vitripennis_XP_031789094:1.15131):0.238149):0.421805):0.0958592);

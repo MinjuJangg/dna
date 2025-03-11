@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_YP_002323931.1:0.0713917,((Apis_mellifera_NP_008083.2:0.16996,Nasionia_vitripennis_XP_031789156:0.444757):0.0362483,Drosophila_melanogaster_YP_009047267.1:0.115011):0.0713917);

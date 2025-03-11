@@ -1,0 +1,1 @@
+(Apis_mellifera_XP_006567541.1:0,(Apis_mellifera_XP_006567540.1:0,(Apis_mellifera_XP_006567544.1:0.003589,Apis_mellifera_XP_006567543.1:0):0):0);

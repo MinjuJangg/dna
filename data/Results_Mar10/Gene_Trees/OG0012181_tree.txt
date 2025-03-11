@@ -1,0 +1,1 @@
+((Drosophila_melanogaster_NP_572827.1:0,Drosophila_melanogaster_NP_001285167.1:0):0.88902,(Nasionia_vitripennis_XP_008212304:0.0090305,Nasionia_vitripennis_XP_001603032:0.0423145):0.88902);

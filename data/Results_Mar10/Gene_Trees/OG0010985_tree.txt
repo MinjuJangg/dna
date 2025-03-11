@@ -1,0 +1,1 @@
+((Nasionia_vitripennis_XP_008214899:0,Nasionia_vitripennis_XP_016845361:0):0.157427,((Drosophila_melanogaster_NP_609135.1:9.34376e-07,Drosophila_melanogaster_NP_723303.1:0.0666025):0.335975,Musca_domestica_XP_005185960.1:0.217754):0.157427);

@@ -1,0 +1,1 @@
+(Acrythosiphon_pisum_XP_003243160.1:1.18966,(((Drosophila_melanogaster_NP_001285287.1:0.00594512,Drosophila_melanogaster_NP_001285286.1:0.00574588):0.149109,Drosophila_melanogaster_NP_573058.1:2.53634e-06):0.0147419,Drosophila_melanogaster_NP_001285285.1:2.53634e-06):1.18966);

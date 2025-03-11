@@ -1,0 +1,1 @@
+((Musca_domestica_XP_005190182.1:0.43415,Acrythosiphon_pisum_XP_008184721.1:0.791512):0.252972,(((Acrythosiphon_pisum_XP_008189505.1:0.0832535,Acrythosiphon_pisum_XP_008179992.1:0.0198805):0.270955,Acrythosiphon_pisum_XP_029345873.1:0.0307474):0.795276,(Ceratina_calcarata_XP_017876320.1:0.482349,Nasionia_vitripennis_XP_008217400:0.882959):0.188709):0.252972);

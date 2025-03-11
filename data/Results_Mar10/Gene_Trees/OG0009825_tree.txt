@@ -1,0 +1,1 @@
+((Drosophila_melanogaster_NP_651094.2:0.309217,Musca_domestica_XP_005190990.1:0.257761):0.158706,(Ceratina_calcarata_XP_026673836.1:0.100535,(Apis_mellifera_XP_016769957.1:0.108283,(Bombus_terrestris_XP_012173912.1:0,Bombus_terrestris_XP_012173913.1:0):0.0933304):0.00787963):0.158706);

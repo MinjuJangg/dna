@@ -1,0 +1,1 @@
+(Apis_mellifera_XP_026299162.1:0.72878,(Bombus_terrestris_XP_012168419.1:0.012494,(Bombus_terrestris_XP_012168418.1:0.013037,(Bombus_terrestris_XP_012168417.1:0,Bombus_terrestris_XP_012168416.1:0):0.005605):0.008797):0.72878);

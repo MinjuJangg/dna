@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_026670757.1:0.191717,(Drosophila_melanogaster_NP_001189098.1:4.3034e-07,(Drosophila_melanogaster_NP_001189093.1:0.00112,Drosophila_melanogaster_NP_001189099.1:0.025041):0.0227795):0.191717);

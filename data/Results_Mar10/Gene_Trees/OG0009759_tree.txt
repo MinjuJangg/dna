@@ -1,0 +1,1 @@
+(((Bombus_terrestris_XP_003401577.1:0.895458,(Ceratina_calcarata_XP_017886284.2:0.694782,Apis_mellifera_XP_006560759.1:0.57792):0.110995):0.19256,Nasionia_vitripennis_XP_001603467:0.945661):0.274863,(Musca_domestica_XP_005175631.1:0.458972,Drosophila_melanogaster_NP_524221.1:0.44532):0.274863);

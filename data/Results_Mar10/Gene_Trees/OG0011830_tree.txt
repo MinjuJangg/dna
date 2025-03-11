@@ -1,0 +1,1 @@
+(Bombus_terrestris_XP_012170371.1:0.0056075,((Bombus_terrestris_XP_012170369.1:5e-07,Bombus_terrestris_XP_012170367.1:5e-07):0.0088955,Bombus_terrestris_XP_012170370.1:0.010279):0.0056075);

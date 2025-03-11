@@ -1,0 +1,1 @@
+(Nasionia_vitripennis_XP_016837091:0.478868,(Ceratina_calcarata_XP_017881806.1:0.094705,(Bombus_terrestris_XP_003394673.1:0.0427995,Apis_mellifera_XP_003251325.2:0.0781955):0.061976):0.478868);

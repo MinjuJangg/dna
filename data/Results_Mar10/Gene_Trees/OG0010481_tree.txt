@@ -1,0 +1,1 @@
+(Drosophila_melanogaster_NP_001246317.1:0.103442,(Apis_mellifera_NP_001011568.1:0.10198,((Ceratina_calcarata_XP_026669147.1:0.0301205,Apis_mellifera_XP_026297803.1:0.0724255):0.0335556,Apis_mellifera_XP_026297804.1:0.0326363):0.167682):0.103442);

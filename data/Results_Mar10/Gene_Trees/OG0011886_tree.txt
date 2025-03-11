@@ -1,0 +1,1 @@
+(Ceratina_calcarata_XP_017887400.1:0.557329,((Nasionia_vitripennis_XP_031781091:3.09368e-06,Nasionia_vitripennis_XP_031788338:0.814797):0.606555,Nasionia_vitripennis_XP_031779857:0.577428):0.557329);
