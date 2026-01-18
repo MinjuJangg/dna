@@ -1,0 +1,4 @@
+faa_path: '/home/dna/people/hyukjin/Pipeline/Data/Drosophila_melanogaster.faa'
+orphan_path: '/home/dna/people/hyukjin/Pipeline/Data/orphan_gene_Drosophila_melanogaster.txt'
+year_num: 1000000
+epoch_num: 1000
