@@ -1,4 +1,4 @@
-# Generative Gene Finder (GGF)
+# 🧬 Generative Gene Finder (GGF)
 ### 돌연변이 경로 시뮬레이션 기반 생성 유전자 탐색 프레임워크
 
 [ICBCB 2026 / Generative Genomics Workshop]
