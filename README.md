@@ -37,6 +37,8 @@
 - 이 유전자가 돌연변이 경로를 통해 생성될 수 있었는가? 를 질문
 
 ## Proposed Pipeline
+
+![alt text](image.png)
 ```
 ↓
 OrthoFinder
