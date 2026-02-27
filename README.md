@@ -41,7 +41,7 @@
 
 ![alt text](image.png)
 ```
-↓
+
 OrthoFinder
 ↓
 Species / Taxon-specific Orphan Gene 후보
